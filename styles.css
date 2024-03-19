@@ -117,6 +117,7 @@ body {
 
   .demo-image {
     order: 1;
+    margin-top: 3%;
 
     min-height: auto;
     width: 80%; 
@@ -130,6 +131,7 @@ body {
     height: auto; 
     max-width: 300px;
     max-height: 300px; 
+    margin-top: 10%;
     margin-bottom: 5%;
   }
 }
